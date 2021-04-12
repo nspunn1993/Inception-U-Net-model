@@ -1,5 +1,6 @@
 # Inception-U-Net-model
 The model is developed from our paper "Inception U-Net Architecture for Semantic Segmentation to Identify Nuclei in Microscopy Cell Images".
+You can visualize the training logs using tensorboard.
 
 # Citation
 ```
