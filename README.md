@@ -7,6 +7,11 @@ This code requires:
 - Tensorflow: 1.12.0
 - Keras: 2.2.4
 
+# What is included?
+- IU-Net model.
+- Segmentation loss function defined as the average of binary cross entropy loss, dice coefficient loss and intersection-over-union loss.
+- More precise and better implementation of IoU metric .
+
 # Citation
 ```
 @article{punn2020inception,
