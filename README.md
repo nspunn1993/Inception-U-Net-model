@@ -13,7 +13,7 @@ This code requires:
 - More precise and better implementation of IoU metric. 
 - Switch normalization layer [[1]](https://arxiv.org/abs/1806.10779).
 - Spectral pooling referred [[2]](https://arxiv.org/abs/1810.04028).
-- 
+
 # Citation
 ```
 @article{punn2020inception,
