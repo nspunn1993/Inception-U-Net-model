@@ -10,8 +10,10 @@ This code requires:
 # What is included?
 - IU-Net model.
 - Segmentation loss function defined as the average of binary cross entropy loss, dice coefficient loss and intersection-over-union loss.
-- More precise and better implementation of IoU metric .
-
+- More precise and better implementation of IoU metric. 
+- Switch normalization layer [[1]](https://arxiv.org/abs/1806.10779).
+- Spectral pooling referred [[2]](https://arxiv.org/abs/1810.04028).
+- 
 # Citation
 ```
 @article{punn2020inception,
